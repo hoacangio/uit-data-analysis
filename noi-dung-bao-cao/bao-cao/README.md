@@ -28,7 +28,7 @@ Dưới đây là cấu trúc báo cáo đã được cập nhật, tách riêng
 | 3        | Thống kê mô tả tổng quan             | 1.5 trang    | Đánh giá hướng trung tâm (Mean, Median, Mode), độ phân tán (Range, Variance, Std Dev, IQR), và hình dáng phân phối (Skewness, Kurtosis) của dữ liệu   |
 | 4        | Phân tích thăm dò (EDA) & Tương quan | 2.5 trang    | Trực quan hóa (Histogram, Boxplot, Scatter plot), tương quan tuyến tính (Heatmap), và phân tích ANOVA/groupby đánh giá biến phân loại.                |
 | 5        | Xây dựng mô hình dự báo              | 2.5 trang    | Tiền xử lý dữ liệu (Outlier, One-Hot Encoding), xây dựng Pipeline, huấn luyện các mô hình Hồi quy tuyến tính và Hồi quy đa thức.                      |
-| 6        | Kết quả và Đánh giá                  | 1.5 trang    | Đánh giá thang đo ($MSE, R^2$) và trực quan hóa (Regression plot, Residual plot, Distribution plot) để kiểm tra độ tin cậy.                           |
+| 6        | Kết quả và Đánh giá                  | 1 trang      | Đánh giá thang đo ($MSE, R^2$) và trực quan hóa (Regression plot, Residual plot, Distribution plot) để kiểm tra độ tin cậy.                           |
 | 7        | Kết luận                             | 0.5 trang    | Tóm tắt phát hiện cốt lõi. Đề xuất ứng dụng thực tiễn thông qua việc xây dựng Data Dashboard để theo dõi và ra quyết định kinh doanh.                 |
 | **Tổng** | **(Không tính phụ lục)**             | **10 trang** |                                                                                                                                                       |
 
