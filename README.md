@@ -16,11 +16,19 @@ Nhóm 26 gồm các thành viên:
 | Đặng Quang Lợi  | 25410245        | 25410245@ms.uit.edu.vn | loidq09@gmail.com         |
 | Bạch Thế Hiển   | 25410205        | 25410205@ms.uit.edu.vn | bachthehienpp18@gmail.com |
 
+## Mốc thời gian dự kiến
+
+- 26/09/2026: Bắt đầu làm việc (bắt đàu viết Jupiter notebooks và chương 1 và chương 2 báo cáo)
+- 01/10/2026: Hoàn thành chương 1 và chương 2 báo cáo và jupiter notebooks, bắt đầu chương 3 và chương 4 báo cáo.
+- 4/10/2026: Hoàn thiện báo cáo, slide thuyết trình và video demo
+- 5/10/2026: Quay thuyết trình
+- **8/10/2026: Nộp báo cáo, slide, video demo và source code**
+
 ## Dataset
 
 Dữ liệu được sử dụng trong phân tích này bao gồm thông tin về các chuyến đi xe đạp, thời gian, địa điểm, và các thông tin liên quan khác như nhiệt độ, độ ẩm, và điều kiện thời tiết. Dữ liệu giúp chúng ta phân tích hành vi người dùng và các yếu tố ảnh hưởng đến việc sử dụng dịch vụ chia sẻ xe đạp.
 
-## Objectives
+## Mục tiêu
 
 Mục tiêu của phân tích này là:
 - Khám phá dữ liệu để hiểu rõ hơn về các mẫu sử dụng xe đạp.
@@ -49,7 +57,12 @@ bike-sharing-data-analysis/
 - Yêu cầu báo cáo: [Link tới yêu cầu báo cáo](yeu-cau-bao-cao.md)
 - Nội dung thuyết trình: [Link tới thuyết trình](noi-dung-bao-cao/thuyet-trinh/README.md)
 
-### Links
+### File cần nộp
 
-| Báo cáo chính thức | [Link tới báo cáo]([noi-dung-bao-cao/README.md](https://1drv.ms/w/c/f583dd69288db217/IQC1XLYggsZBSIFdDbRZxeNpAQ45Ij8hfCBncUToQPN9GLs?e=p5FnPu)) |
-| Slide thuyết trình | [Link tới thuyết trình]([noi-dung-bao-cao/thuyet-trinh/README.md](https://1drv.ms/p/c/f583dd69288db217/IQCpkBTMyqUUS4J-uOBZmHZZAVV6di49VZkCS8VZ9BC80QI?e=1q8gKc)) |
+https://1drv.ms/f/c/f583dd69288db217/IgAmhO6m-X-GTrk4cqEK8TcFAfKDtrBz6iJ-kM1rV_6v_K4?e=IZt7Qj
+
+[] Báo cáo chính thức: word, pdf 
+[] Slide thuyết trình: ppt
+[] Video thuyết trình: mp4
+[] Source code: zip (từ github này)
+
