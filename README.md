@@ -61,8 +61,8 @@ bike-sharing-data-analysis/
 
 https://1drv.ms/f/c/f583dd69288db217/IgAmhO6m-X-GTrk4cqEK8TcFAfKDtrBz6iJ-kM1rV_6v_K4?e=IZt7Qj
 
-[] Báo cáo chính thức: word, pdf 
-[] Slide thuyết trình: ppt
-[] Video thuyết trình: mp4
-[] Source code: zip (từ github này)
+- [] Báo cáo chính thức: word, pdf 
+- [] Slide thuyết trình: ppt
+- [] Video thuyết trình: mp4
+- [] Source code: zip (từ github này)
 
