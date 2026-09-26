@@ -26,32 +26,30 @@
 
 Nội dung báo cáo được chia thành các chương như sau:
 
-| Chương    | Nội dung                      | Độ dài    |
-| --------- | ----------------------------- | --------- |
-| 1         | Giới thiệu                    | 0.5 trang |
-| 2         | Mô tả bộ dữ liệu              | 2 trang   |
-| 3         | Phương pháp phân tích         | 2 trang   |
-| 4         | Phương pháp thăm dò           | 2 trang   |
-| 5         | Kết quả phần tích             | 2 trang   |
-| 6         | Kết luận                      | 1 trang   |
-| 7         | Phụ lục và tài liệu tham khảo | 1 trang   |
-| Tổng cộng | (Không tính phụ lục)          | 10 trang  |
+| Chương    | Nội dung                             | Độ dài     | Mô tả chi tiết                                                                                                               |
+| --------- | ------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Giới thiệu                           | 0.5 trang  | Nêu bối cảnh bài toán, mục tiêu nghiên cứu và các công cụ/thuật toán áp dụng.                                                |
+| 2         | Mô tả bộ dữ liệu                     | 1.0 trang  | Nguồn gốc dữ liệu, số lượng mẫu, định nghĩa chi tiết biến số và phân loại kiểu dữ liệu.                                      |
+| 3         | Thống kê mô tả tổng quan             | 1.5 trang  | Đánh giá xu hướng tập trung (Mean, Median), mức độ phân tán (Variance, Std Dev) và hình dáng phân phối (Skewness, Kurtosis). |
+| 4         | Phân tích thăm dò (EDA) & Tương quan | 2.5 trang  | Trực quan hóa dữ liệu (Histogram, Boxplot), đánh giá tương quan (Heatmap) và kiểm định ANOVA/groupby cho các biến phân loại. |
+| 5         | Xây dựng mô hình dự báo              | 2.5 trang  | Tiền xử lý dữ liệu (Outlier, Encoding), xây dựng Pipeline và huấn luyện các mô hình dự báo (Linear/Polynomial Regression).   |
+| 6         | Kết quả và Đánh giá                  | 1.5 trang  | Đánh giá thang đo ($MSE, R^2$) và phân tích biểu đồ (Regression/Residual plot) để kiểm tra độ tin cậy của mô hình.           |
+| 7         | Kết luận                             | 0.5 trang  | Tóm tắt các phát hiện cốt lõi, khẳng định tính hiệu quả của mô hình và đề xuất ứng dụng thực tiễn.                           |
+| Tổng cộng | (Không tính phụ lục)                 | 10.0 trang |                                                                                                                              |
 
-* **Giới thiệu:** Phải được viết trong khoảng 10 dòng hoặc nửa trang, gồm đúng 2 đoạn văn và không sử dụng gạch đầu dòng. Đoạn 1 cần nêu rõ mục tiêu, công cụ/thuật toán áp dụng và tóm tắt kết quả đạt được, không cần bình luận về kết quả đạt được, không cần giải thích lý do chọn đề tài. Đoạn 2 phải cam kết minh bạch về nguồn gốc bộ dữ liệu (tự thu thập, tham khảo ở đâu, hoặc dựa trên dự án mẫu nào).
+* **Giới thiệu:** Phải được viết trong khoảng 10 dòng hoặc nửa trang, gồm đúng 2 đoạn văn và không sử dụng gạch đầu dòng. Đoạn 1 cần nêu rõ mục tiêu, công cụ/thuật toán áp dụng và tóm tắt kết quả đạt được. Đoạn 2 phải cam kết minh bạch về nguồn gốc bộ dữ liệu.
 
+* **Mô tả bộ dữ liệu:** Giới hạn trong khoảng 1 trang, bao gồm bảng mô tả các cột dữ liệu (Tên cột, Kiểu dữ liệu, Phạm vi, Giải thích) và các thống kê sơ bộ về dữ liệu.
 
-* **Mô tả bộ dữ liệu:** Đây là phần bắt buộc phải có, giới hạn trong khoảng 1-2 trang. Yêu cầu phải có bảng mô tả các cột dữ liệu bao gồm Tên cột, Kiểu dữ liệu, Phạm vi và Giải thích. Cần trình bày các thống kê ban đầu như số lượng dòng, cột, số lượng biến phân loại, biến số và số lượng dữ liệu bị khuyết.
+* **Thống kê mô tả tổng quan:** Đánh giá xu hướng tập trung (Mean, Median), mức độ phân tán (Variance, Std Dev) và hình dáng phân phối (Skewness, Kurtosis) của các biến quan trọng.
 
+* **Phân tích thăm dò (EDA) & Tương quan:** Trình bày kết quả trực quan hóa dữ liệu (Histogram, Boxplot), ma trận tương quan (Heatmap) và kết quả kiểm định ANOVA/groupby cho các biến phân loại.
 
-* **Phương pháp phân tích:** Báo cáo phải chứa hình ảnh thể hiện quy trình hoặc các bước thực hiện phân tích dữ liệu.
+* **Xây dựng mô hình dự báo:** Trình bày quy trình tiền xử lý dữ liệu (Outlier, Encoding), xây dựng Pipeline và chi tiết các mô hình đã huấn luyện (Linear/Polynomial Regression).
 
+* **Kết quả và Đánh giá:** Trình bày kết quả đánh giá thông qua các thang đo ($MSE, R^2$) và phân tích đồ thị (Regression/Residual plot) để kiểm tra độ tin cậy của mô hình.
 
-* **Phân tích thăm dò/sơ bộ:** Yêu cầu trình bày các phát hiện chính và tập trung vào các biến quan trọng đã được chọn lọc, không cần trình bày tất cả các biến.
-
-* **Kết quả phần tích:** Trình bày các kết quả chính từ quá trình phân tích dữ liệu, bao gồm các biểu đồ, bảng số liệu và các phát hiện quan trọng. Phần này nên tập trung vào những kết quả nổi bật và có ý nghĩa nhất, không cần trình bày tất cả các kết quả chi tiết.
-
-
-* **Kết luận:** Độ dài khoảng 10 dòng hoặc nửa trang, tập trung tóm tắt lại mục tiêu, phương pháp, các kết quả nổi bật nhất và kết luận rút ra được.
+* **Kết luận:** Độ dài khoảng 10 dòng hoặc nửa trang, tóm tắt các phát hiện cốt lõi, khẳng định tính hiệu quả của mô hình và đề xuất ứng dụng thực tiễn.
 
 
 * **Tài liệu tham khảo:** Sinh viên không được phép tham khảo các nguồn từ blog công nghệ, wikipedia, facebook, youtube hoặc mạng xã hội. Trình bày sai định dạng tài liệu tham khảo sẽ bị trừ 1 điểm.
