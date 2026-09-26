@@ -18,7 +18,7 @@ Nhóm 26 gồm các thành viên:
 
 ## Mốc thời gian dự kiến
 
-- 26/09/2026: Bắt đầu làm việc (bắt đàu viết Jupiter notebooks và chương 1 và chương 2 báo cáo)
+- 26/09/2026: Bắt đầu làm việc (bắt đàu viết Jupiter notebooks và các chương báo cáo (1,2: Hiển; 3,4: Hòa; 5,6: Lợi))
 - 01/10/2026: Hoàn thành chương 1 và chương 2 báo cáo và jupiter notebooks, bắt đầu chương 3 và chương 4 báo cáo.
 - 4/10/2026: Hoàn thiện báo cáo, slide thuyết trình và video demo
 - 5/10/2026: Quay thuyết trình
@@ -62,7 +62,7 @@ bike-sharing-data-analysis/
 https://1drv.ms/f/c/f583dd69288db217/IgAmhO6m-X-GTrk4cqEK8TcFAfKDtrBz6iJ-kM1rV_6v_K4?e=IZt7Qj
 
 - [-] Báo cáo chính thức: word, pdf 
-- [-] Slide thuyết trình: ppt
-- [-] Video thuyết trình: mp4
-- [-] Source code: zip (từ github này)
+- [-] Slide thuyết trình: ppt (10p)
+- [-] Video thuyết trình: mp4 (10 phút + Demo 5 phút)
+- [-] Source code: notebooks, dashboard, src
 
