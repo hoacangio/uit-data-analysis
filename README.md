@@ -1,5 +1,9 @@
 # Bike Sharing Data Analysis
 
+## Tên chính thức đề tài
+
+Phân tích và dự báo nhu cầu sử dụng dịch vụ chia sẻ xe đạp tại Seoul.
+
 ## Overview
 
 Đây là đề tài phân tích dữ liệu về việc chia sẻ xe đạp của nhóm 26 - Khoa CNTT - Trường Đại học Công Nghệ Thông Tin TPHCM, bao gồm việc khám phá dữ liệu, trực quan hóa và mô hình hóa để hiểu rõ hơn về xu hướng sử dụng xe đạp trong thành phố Seoul.
@@ -38,3 +42,14 @@ bike-sharing-data-analysis/
 ├── requirements.txt    # Các gói Python cần thiết
 ├── dashboard.py        # Tệp chứa mã nguồn cho dashboard hiển thị trực quan dữ liệu
 ```
+
+## Chuẩn bị cho báo cáo và thuyết trình
+
+- Báo cáo chính thức: [Link tới báo cáo](noi-dung-bao-cao/README.md)
+- Yêu cầu báo cáo: [Link tới yêu cầu báo cáo](yeu-cau-bao-cao.md)
+- Nội dung thuyết trình: [Link tới thuyết trình](noi-dung-bao-cao/thuyet-trinh/README.md)
+
+### Links
+
+| Báo cáo chính thức | [Link tới báo cáo]([noi-dung-bao-cao/README.md](https://1drv.ms/w/c/f583dd69288db217/IQC1XLYggsZBSIFdDbRZxeNpAQ45Ij8hfCBncUToQPN9GLs?e=p5FnPu)) |
+| Slide thuyết trình | [Link tới thuyết trình]([noi-dung-bao-cao/thuyet-trinh/README.md](https://1drv.ms/p/c/f583dd69288db217/IQCpkBTMyqUUS4J-uOBZmHZZAVV6di49VZkCS8VZ9BC80QI?e=1q8gKc)) |
