@@ -15,6 +15,8 @@ Phân tích và dự báo nhu cầu sử dụng dịch vụ chia sẻ xe đạp 
 | Bạch Thế Hiển   | 25410205        | 25410205@ms.uit.edu.vn | bachthehienpp18@gmail.com |
 
 
+
+
 ## Cấu trúc báo cáo
 
 Nội dung báo cáo được chia thành các chương như sau:

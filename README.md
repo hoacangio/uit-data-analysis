@@ -19,7 +19,7 @@ Nhóm 26 gồm các thành viên:
 ## Mốc thời gian dự kiến
 
 - 26/09/2026: Bắt đầu làm việc (bắt đàu viết Jupiter notebooks và các chương báo cáo (1,2: Hiển; 3,4: Hòa; 5,6: Lợi))
-- 01/10/2026: Hoàn thành chương 1 và chương 2 báo cáo và jupiter notebooks, bắt đầu chương 3 và chương 4 báo cáo.
+- 01/10/2026: Hoàn thành các chương báo cáo và jupiter notebooks.
 - 4/10/2026: Hoàn thiện báo cáo, slide thuyết trình và video demo
 - 5/10/2026: Quay thuyết trình
 - **8/10/2026: Nộp báo cáo, slide, video demo và source code**
