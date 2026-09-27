@@ -6,6 +6,8 @@ Phân tích và dự báo nhu cầu sử dụng dịch vụ chia sẻ xe đạp 
 
 ## Overview
 
+![alt text](./dashboard.png "Dashboard hiển thị trực quan dữ liệu")
+
 Đây là đề tài phân tích dữ liệu về việc chia sẻ xe đạp của nhóm 26 - Khoa CNTT - Trường Đại học Công Nghệ Thông Tin TPHCM, bao gồm việc khám phá dữ liệu, trực quan hóa và mô hình hóa để hiểu rõ hơn về xu hướng sử dụng xe đạp trong thành phố Seoul.
 
 Nhóm 26 gồm các thành viên: 
