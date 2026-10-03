@@ -13,6 +13,9 @@
 
 * Tổng số trang của các phần chính (Giới thiệu, Mô tả bộ dữ liệu, Phương pháp phân tích, Phân tích thăm dò/sơ bộ, Kết quả phần tích, Kết luận) phải nằm trong khoảng từ 05 đến 10 trang, không tính trang bìa, tài liệu tham khảo và phụ lục.
 
+* **Số chữ mục tiêu:** trung bình khoảng **250–350 từ/trang**; phần nội dung chính (các chương 1–7, tổng cộng 10 trang theo phân bổ bên dưới) khoảng **2.500–3.500 từ**. Tính nội dung văn bản trong chương, bảng và chú thích hình/bảng; không tính trang bìa, tài liệu tham khảo và phụ lục. Số từ theo trang/chương là khoảng mục tiêu quy đổi, có thể dao động theo mật độ hình, bảng và công thức; giới hạn số trang cùng bố cục của Template vẫn là yêu cầu hình thức ưu tiên.
+
+* **Định dạng chữ:** sử dụng đúng `Template_IE313.docx`. Theo định dạng phần nội dung trong mẫu, thân bài dùng **Times New Roman, cỡ 13 pt, giãn dòng 1,15 và căn đều hai lề**. Giữ nguyên các style, cấp tiêu đề và định dạng riêng của tiêu đề, bảng, hình theo mẫu; không áp dụng cỡ 13 pt đồng loạt cho các thành phần có style riêng.
 
 * Báo cáo tuyệt đối không được chứa lời cảm ơn, phần tóm tắt hay mục lục.
 
@@ -26,16 +29,16 @@
 
 Nội dung báo cáo được chia thành các chương như sau:
 
-| Chương    | Nội dung                             | Độ dài     | Mô tả chi tiết                                                                                                               |
-| --------- | ------------------------------------ | ---------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1         | Giới thiệu                           | 0.5 trang  | Nêu bối cảnh bài toán, mục tiêu nghiên cứu và các công cụ/thuật toán áp dụng.                                                |
-| 2         | Mô tả bộ dữ liệu                     | 1.0 trang  | Nguồn gốc dữ liệu, số lượng mẫu, định nghĩa chi tiết biến số và phân loại kiểu dữ liệu.                                      |
-| 3         | Thống kê mô tả tổng quan             | 1.5 trang  | Đánh giá xu hướng tập trung (Mean, Median), mức độ phân tán (Variance, Std Dev) và hình dáng phân phối (Skewness, Kurtosis). |
-| 4         | Phân tích thăm dò (EDA) & Tương quan | 2.5 trang  | Trực quan hóa dữ liệu (Histogram, Boxplot), đánh giá tương quan (Heatmap) và kiểm định ANOVA/groupby cho các biến phân loại. |
-| 5         | Xây dựng mô hình dự báo              | 2.5 trang  | Tiền xử lý dữ liệu (Outlier, Encoding), xây dựng Pipeline và huấn luyện các mô hình dự báo (Linear/Polynomial Regression).   |
-| 6         | Kết quả và Đánh giá                  | 1.5 trang  | Đánh giá thang đo ($MSE, R^2$) và phân tích biểu đồ (Regression/Residual plot) để kiểm tra độ tin cậy của mô hình.           |
-| 7         | Kết luận                             | 0.5 trang  | Tóm tắt các phát hiện cốt lõi, khẳng định tính hiệu quả của mô hình và đề xuất ứng dụng thực tiễn.                           |
-| Tổng cộng | (Không tính phụ lục)                 | 10.0 trang |                                                                                                                              |
+| Chương    | Nội dung                             | Độ dài / từ mục tiêu | Mô tả chi tiết                                                                                                               |
+| --------- | ------------------------------------ | -------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Giới thiệu                           | 0.5 trang / 125–175 từ | Nêu bối cảnh bài toán, mục tiêu nghiên cứu và các công cụ/thuật toán áp dụng.                                               |
+| 2         | Mô tả bộ dữ liệu                     | 1.0 trang / 250–350 từ | Nguồn gốc dữ liệu, số lượng mẫu, định nghĩa chi tiết biến số và phân loại kiểu dữ liệu.                                     |
+| 3         | Thống kê mô tả tổng quan             | 1.5 trang / 375–525 từ | Đánh giá xu hướng tập trung (Mean, Median), mức độ phân tán (Variance, Std Dev) và hình dáng phân phối (Skewness, Kurtosis). |
+| 4         | Phân tích thăm dò (EDA) & Tương quan | 2.5 trang / 625–875 từ | Trực quan hóa dữ liệu (Histogram, Boxplot), đánh giá tương quan (Heatmap) và kiểm định ANOVA/groupby cho các biến phân loại. |
+| 5         | Xây dựng mô hình dự báo              | 2.5 trang / 625–875 từ | Tiền xử lý dữ liệu (Outlier, Encoding), xây dựng Pipeline và huấn luyện các mô hình dự báo (Linear/Polynomial Regression).  |
+| 6         | Kết quả và Đánh giá                  | 1.5 trang / 375–525 từ | Đánh giá thang đo ($MSE, R^2$) và phân tích biểu đồ (Regression/Residual plot) để kiểm tra độ tin cậy của mô hình.          |
+| 7         | Kết luận                             | 0.5 trang / 125–175 từ | Tóm tắt các phát hiện cốt lõi, khẳng định tính hiệu quả của mô hình và đề xuất ứng dụng thực tiễn.                          |
+| Tổng cộng | (Không tính phụ lục)                 | 10.0 trang / 2.500–3.500 từ |                                                                                                                         |
 
 * **Giới thiệu:** Phải được viết trong khoảng 10 dòng hoặc nửa trang, gồm đúng 2 đoạn văn và không sử dụng gạch đầu dòng. Đoạn 1 cần nêu rõ mục tiêu, công cụ/thuật toán áp dụng và tóm tắt kết quả đạt được. Đoạn 2 phải cam kết minh bạch về nguồn gốc bộ dữ liệu.
 

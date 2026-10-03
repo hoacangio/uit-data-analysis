@@ -38,6 +38,11 @@ Dưới đây là cấu trúc báo cáo đã được cập nhật, tách riêng
 
 Được mô tả tại [Yêu cầu báo cáo đồ án môn học](../yeu-cau-bao-cao.md)
 
+## Tài liệu bổ sung
+
+- [Tài liệu tham khảo](./chapters/9.tai-lieu-tham-khao.md)
+- [Phụ lục phân công nhiệm vụ](./chapters/8.phu-luc-phan-cong.md)
+
 ## Links tới báo cáo chính thức
 
-https://1drv.ms/w/c/f583dd69288db217/IQC1XLYggsZBSIFdDbRZxeNpAQ45Ij8hfCBncUToQPN9GLs?e=wq7iXC
+https://uithcm-my.sharepoint.com/:w:/g/personal/25410216_ms_uit_edu_vn/IQAwxbHQHlGiQ6lBjzNRWw3AAb_epZ8E2zkieXNcU2oXoNg?e=xQFrHx
